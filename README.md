@@ -20,11 +20,11 @@ If you are working on custom based test file, you need to modify the MakeFile co
 You can read this link to understand more : https://stackoverflow.com/questions/47250441/add-a-generic-file-in-xv6-makefile<br>
 
 Open the Terminal:
-go inside the xv-6 directory, run the commands:
-make clean
-make 
-make qemu
-tail -10 README or tail -5 user input or grep the README | tail -2.
-Try out more commands by yourself.
+go inside the xv-6 directory, run the commands:<br>
+make clean<br>
+make <br>
+make qemu<br>
+tail -10 README or tail -5 user input or grep the README | tail -2.<br>
+Try out more commands by yourself.<br>
 
-Happy Coding.
+Happy Coding.<br>
